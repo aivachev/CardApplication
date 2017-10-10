@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mTabOne"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_card_24dp"
+        android:title="5 Card">
+    </item>
+    <item
+        android:id="@+id/mTabTwo"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@drawable/ic_contacts_24dp"
+        android:title="Contacts">
+    </item>
+    <item
+        android:id="@+id/mTabThree"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@drawable/ic_info_24dp"
+        android:title="Info">
+    </item>
+</menu>

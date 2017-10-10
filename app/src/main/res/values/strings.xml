@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CardApplication</string>
+    <string name="tab1">Card</string>
+    <string name="tab2">Contact</string>
+    <string name="tab3">Info</string>
+    <string name="info_string">Третья страница для общей информации и широкого BottomNavigationView</string>
+</resources>
